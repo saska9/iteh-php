@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="css/imagehover.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/slike.css">
-    <title>Sarme</title>
+    <title>Domaći kolači</title>
 </head>
 <body>
  

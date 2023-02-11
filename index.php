@@ -21,7 +21,7 @@
 
   </head>
   <body>
-    <?php include 'heder.php'; ?>
+    <?php include 'header.php'; ?>
 
 
     <section id ="feature" class="section-padding">
@@ -30,17 +30,17 @@
           <div class="header-section text-center">
 
             <div class="col-md-12 text-center">
-              <img src="img/logo.jpg" class="img img-square"> <br><br>
+              <img src="img/logo.png" class="img img-square"> <br><br>
             </div>
-            <p>Naš tim je sastavljen od vrhunskih majstora koji se svakodnevno usavršavaju da bismo za Vas stvarali magične slatkiše koji se pamte do kraja života. <br>
+            <p>Pozdrav svim ljubiteljima kolača,a verujem da Vas je puno! <br>
 
-Da bismo ispunili sve Vaše slatke maštarije, pratimo najnovije trendove, usavršvamo se i učimo od najboljih svetskih poslastičara.<br>
+Ono što je jako bitno da znate jeste da je ključ svake uspešne poslastičarnice njena tradicija. <br>
 
-Na prvom mestu nam je zadovoljstvo, kao i sigurnost naših kupaca pa primenjujemo sistem bezbednosti hrane HACCP. <br>
+Naš tim predvodi deka, veliki ljubitelj sitnih kolača, koji je davne 1953. godine započeo posao i kasnije ga razvio sa bakom, svojom decom, a sada i sa nama, njegovim unucima. <br>
 
-I zato, torte, kolače pravimo u skladu sa Vašim željama i potrebama, uz stručne savete nasih poslastičara i dekoratera koji će Vam u svakom trenutku objasniti sve što Vas interesuje.<br>
+Većinu kolača pravimo po tradicionalnim receptima, ali se trudimo da maksimalno zadovoljimo i Vaše zahteve i potrebe!<br>
 
-Ukoliko ste ljubitelji domaćih ukusa kolača i torti, poslastičarnica Domaći kolači pravo je mesto za prepuštanje slatkim zadovoljstvima.<br> 
+Ukoliko ste ljubitelji domaćih ukusa kolača, poslastičarnica Domaći kolači pravo je mesto za prepuštanje slatkim zadovoljstvima.<br> 
 
 Ko jednom dođe i proba našu slatku ponudu, vraća se po još!<br><br><br>
 
@@ -52,16 +52,16 @@ Ko jednom dođe i proba našu slatku ponudu, vraća se po još!<br><br><br>
   <div class="col-md-12 text-center">
     <div class="row">
         <div class="column">
-            <img src="img/pravi.jpg"  style="width:100%">
+            <img src="img/kolač1.jpg"  style="width:100%">
         </div>
         <div class="column">
-            <img src="img/torta.jpg"  style="width:100%">
+            <img src="img/kolač2.jpg"  style="width:100%">
         </div>
         <div class="column">
-            <img src="img/slika.jpg"  style="width:100%">
+            <img src="img/pravljenje.jpg"  style="width:100%">
         </div>
         <div class="column">
-            <img src="img/kolac.jpg"  style="width:100%">
+            <img src="img/kolač3.jpg"  style="width:100%">
         </div>
     </div>
 
@@ -75,7 +75,7 @@ Ko jednom dođe i proba našu slatku ponudu, vraća se po još!<br><br><br>
       </div>
     </section>
 
-    <?php include 'futer.php'; ?>
+    <?php include 'footer.php'; ?>
 
 
 
