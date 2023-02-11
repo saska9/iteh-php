@@ -40,7 +40,7 @@ Naš tim predvodi deka, veliki ljubitelj sitnih kolača, koji je davne 1953. god
 
 Većinu kolača pravimo po tradicionalnim receptima, ali se trudimo da maksimalno zadovoljimo i Vaše zahteve i potrebe!<br>
 
-Ukoliko ste ljubitelji domaćih ukusa kolača, poslastičarnica Domaći kolači pravo je mesto za prepuštanje slatkim zadovoljstvima.<br> 
+Ukoliko ste ljubitelji domaćih ukusa kolača, poslastičarnica "Domaći kolači" pravo je mesto za prepuštanje slatkim zadovoljstvima.<br> 
 
 Ko jednom dođe i proba našu slatku ponudu, vraća se po još!<br><br><br>
 
@@ -58,7 +58,7 @@ Ko jednom dođe i proba našu slatku ponudu, vraća se po još!<br><br><br>
             <img src="img/kolač2.jpg"  style="width:100%">
         </div>
         <div class="column">
-            <img src="img/pravljenje.jpg"  style="width:100%">
+            <img src="img/pravljenje1.jpg"  style="width:100%">
         </div>
         <div class="column">
             <img src="img/kolač3.jpg"  style="width:100%">
