@@ -32,7 +32,7 @@
             <div class="col-md-12 text-center">
               <img src="img/logo.png" class="img img-square"> <br><br>
             </div>
-            <p>Pozdrav svim ljubiteljima kolača,a verujem da Vas je puno! <br>
+            <p>Pozdrav svim ljubiteljima kolača, a verujem da Vas je puno! <br>
 
 Ono što je jako bitno da znate jeste da je ključ svake uspešne poslastičarnice njena tradicija. <br>
 
