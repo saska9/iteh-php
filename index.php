@@ -30,7 +30,7 @@
           <div class="header-section text-center">
 
             <div class="col-md-12 text-center">
-              <img src="img/logo.png" class="img img-square"> <br><br>
+              <img src="img/logo.png" class="img img-square" style="width:50%"> <br><br>
             </div>
             <p>Pozdrav svim ljubiteljima kolača, a verujem da Vas je puno! <br>
 
@@ -52,16 +52,16 @@ Ko jednom dođe i proba našu slatku ponudu, vraća se po još!<br><br><br>
   <div class="col-md-12 text-center">
     <div class="row">
         <div class="column">
-            <img src="img/pravljenje2.jpg"  style="width:100%">
+            <img src="img/pravljenje.jpg"  style="width:100%">
         </div>
         <div class="column">
             <img src="img/kolač1.jpg"  style="width:100%">
         </div>
         <div class="column">
-            <img src="img/likovi.jpg"  style="width:100%">
+            <img src="img/kolač2.jpg"  style="width:100%">
         </div>
         <div class="column">
-            <img src="img/sitni.jpg"  style="width:100%">
+            <img src="img/kolač3.jpg"  style="width:100%">
         </div>
     </div>
 

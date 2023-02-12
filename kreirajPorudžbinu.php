@@ -34,8 +34,7 @@
                     <label for="opis">Opis</label>
                     <textarea required name="opis" class="form-control" type="number" id="opis"></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary form-control"
-                id="dodaj">Dodaj</button>
+                <button type="submit" class="btn btn-primary form-control" id="dodaj">Dodaj</button>
             </form>
         </div>
     </div>
@@ -52,7 +51,7 @@
 
             const naziv = $('#naziv').val();
             const cena = $('#cena').val();
-            const boja = $('#ukus').val();
+            const ukus = $('#ukus').val();
             const kategorija = $('#kategorija').val();
             const opis = $('#opis').val();
             const slika = $("#slika")[0].files[0];
@@ -61,7 +60,7 @@
             fd.append("naziv", naziv);
             fd.append("opis", opis);
             fd.append("cena", cena);
-            fd.append("ukus", boja);
+            fd.append("ukus", ukus);
             fd.append("kategorija", kategorija);
             $.ajax(
                 {
