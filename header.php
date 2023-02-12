@@ -23,13 +23,13 @@
             <ul class="navbar-nav mx-auto">
                
                 <li class="nav-item mx-auto">
-                    <a class="nav-link" href="index.php">Početna</a>
+                    <a class="nav-link" href="index.php">O nama</a>
                 </li>
                 <li class="nav-item mx-auto">
-                    <a class="nav-link" href="porudzbine.php">Porudžbina</a>
+                    <a class="nav-link" href="kreirajPorudžbinu.php">Kreiraj porudžbinu</a>
                 </li>
                 <li class="nav-item mx-auto">
-                    <a class="nav-link" href="kreirajPorudzbinu.php">Kreiraj porudžbinu</a>
+                    <a class="nav-link" href="porudžbine.php">Porudžbina</a>
                 </li>
                 <li class="nav-item mx-auto">
                     <a class="nav-link" href="kategorije.php">Kategorije</a>

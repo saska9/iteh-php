@@ -34,7 +34,8 @@
                     <label for="opis">Opis</label>
                     <textarea required name="opis" class="form-control" type="number" id="opis"></textarea>
                 </div>
-                <button type="submit" class="btn btn-primary form-control">Dodaj</button>
+                <button type="submit" class="btn btn-primary form-control"
+                id="dodaj">Dodaj</button>
             </form>
         </div>
     </div>
@@ -81,6 +82,22 @@
             )
         })
     })
+
+    function ucitajOptions(url, htmlElement) {
+        $.getJSON(url).then(res => {
+            if (!res.status) {
+                alert(res.error);
+                return;
+            }
+            for (let element of res.kolekcija) {
+                $('#' + htmlElement).append(`
+                    <option value="${element.id}">
+                        ${element.naziv}
+                        </option>
+                `)
+            }
+        })
+    }
 
 </script>
 <?php
